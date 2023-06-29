@@ -35,3 +35,4 @@
 #### after changing it to real time 
 ![Pasted image 20230628100356](https://github.com/radlock69/memory-scanner/assets/130318358/69d30c10-45d2-4398-9bc8-ab50e988d39f)
 
+# I will add a lot of features more
