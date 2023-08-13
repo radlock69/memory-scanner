@@ -1,5 +1,4 @@
 # Memory Scanner
-![Pasted image 20230628100513](https://github.com/radlock69/memory-scanner/assets/130318358/9b2842ae-8268-4a53-b726-5547d3a75a00)
 * you can list with it your running processes
 * commit and/or reserve memory to a process and you can know how much memory is committed or reserved in the process
 * you can change the process priority 
